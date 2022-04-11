@@ -1,9 +1,19 @@
 # ninja log v5
-0	366	6713820021246873	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
-368	523	6713820022777231	individual_task_homework.exe	f0e340d7541afa15
-2	325	6713821664865959	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
-325	440	6713821666006300	individual_task_homework.exe	f0e340d7541afa15
-3	307	6713822140815123	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
-307	413	6713822141855357	individual_task_homework.exe	f0e340d7541afa15
 4	561	6713823200131642	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
 563	815	6713823202322115	individual_task_homework.exe	f0e340d7541afa15
+2	331	6713836551083271	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+332	448	6713836552223729	individual_task_homework.exe	f0e340d7541afa15
+3	345	6713836916508574	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+346	530	6713836918328961	individual_task_homework.exe	f0e340d7541afa15
+2	337	6713838102813534	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+337	441	6713838103823762	individual_task_homework.exe	f0e340d7541afa15
+3	399	6713838989089209	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+400	533	6713838990399505	individual_task_homework.exe	f0e340d7541afa15
+3	314	6713839454311349	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+314	458	6713839455721683	individual_task_homework.exe	f0e340d7541afa15
+3	303	6713841182896842	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+304	408	6713841183907084	individual_task_homework.exe	f0e340d7541afa15
+3	322	6713841999772602	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+322	421	6713842000762923	individual_task_homework.exe	f0e340d7541afa15
+3	363	6713847980392009	CMakeFiles/individual_task_homework.dir/main.cpp.obj	73d34aa0b3e98580
+363	510	6713847981882332	individual_task_homework.exe	f0e340d7541afa15
